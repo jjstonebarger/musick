@@ -6,8 +6,14 @@ body {
 
 img {
   
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: auto;
-    width: 50%;
+    width: 100%;
     align-content: center;
+    
+
     
   }
